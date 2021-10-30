@@ -1,0 +1,16 @@
+#x {
+    background-color: #000000;
+}
+
+.center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+}
+
+.app-icon {
+        width: 120px;
+        border-radius: 20%;
+}
+
